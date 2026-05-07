@@ -6,7 +6,7 @@ From using two different modeling i have found two set of features that has the 
 
 |title_status        | state     |cylinders    |transmission    | manufacturer       |condition|
 | :---               | :---:     | :---:        | :---:         | :---:                |---: |
-|0 -16584.886352 |-16371.837798  |8740.44308   |10204.210126    | 11882.745145     | 14977.541527 |
+| -16584.886352 |-16371.837798  |8740.44308   |10204.210126    | 11882.745145     | 14977.541527 |
 
 And that title_status and condition is the features that have the biggest effect on the price
 
